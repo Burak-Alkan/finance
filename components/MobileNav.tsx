@@ -32,7 +32,7 @@ const MobileNav = ({ user }: MobileNavProps) => {
         <SheetContent side="left"
         className="border-none bg-white"
         >
-          <Link className="mb-12 crusor-pointer items-center gap-1 px-4" href="/">
+          <Link className="mb-12 cursor-pointer items-center gap-1 px-4" href="/">
             <Image
              
               src="/icons/logo.svg"
